@@ -10,4 +10,7 @@ public class Rectangulo {
     public double obtenerPerimetro(){
         return (lado1*2) + (lado2*2);
     }
+    public void mostrarRectangulo(){
+        //Este método enseñara el Rectángulo
+    }
 }
